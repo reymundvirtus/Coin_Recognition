@@ -1,4 +1,4 @@
 # Coin Recognition in Python using OPENCV Library
 
 ###### Output:
-![alt text](https://github.com/FP1_output.jpg)
+![FP1_output.jpg](https://github.com/reymundvirtus/Coin_Recognition/FP1_output.jpg)
